@@ -1,0 +1,1 @@
+github/gitbash/jenkins/maven/scm/yaml/sonarqube/cubarnetives
